@@ -81,13 +81,17 @@ Walkthrough video:
 https://drive.google.com/file/d/1k33GzGwC8c0IbeFsfwOrxxGIyRg_PXfV/view?usp=sharing
 
  
-Screen Shot of Generated Readme:
+Screen Shot of Note Taking Application:
 
 
-![ScreenShot](img/videos/Team-Profile-Generator-HTML-Demo.gif "Generated team.html")
+![ScreenShot](./public/assets/images/Note-Taker.gif )
 
 
-[Github Repository Site] https://github.com/Jbarbss/Team-Profile-Generator
+[Deployed Heroku site] https://safe-caverns-44839.herokuapp.com/
+
+[github repository site] https://github.com/Jbarbss/Express.js--Note-Taker-App
+
+
 
  
 ## Contributions
