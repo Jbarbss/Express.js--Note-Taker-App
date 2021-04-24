@@ -56,29 +56,16 @@ npm i inquirer
 
 npm i express
 
+npm i uuid
+
+npm i path
+
 ```
 
 ## Usage
 
-The application will be invoked by using the following command:
-
-```bash
-node index.js
-```
-The test using jest can be invoked by using the following command:
-
-```bash
-npm run test
-```
 
 
-### Click link to open in your browser.
-
-
-
-Walkthrough video: 
-
-https://drive.google.com/file/d/1k33GzGwC8c0IbeFsfwOrxxGIyRg_PXfV/view?usp=sharing
 
  
 Screen Shot of Note Taking Application:
@@ -86,6 +73,7 @@ Screen Shot of Note Taking Application:
 
 ![ScreenShot](./public/assets/images/Note-Taker.gif )
 
+### Click link to open in your browser.
 
 [Deployed Heroku site] https://safe-caverns-44839.herokuapp.com/
 
