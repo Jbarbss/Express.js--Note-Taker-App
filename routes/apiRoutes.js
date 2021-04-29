@@ -10,10 +10,7 @@ module.exports = (app) => {
     let noteDb = JSON.parse(fs.readFileSync('./db/db.json', 'utf8'));
 
     // API GET Requests
-    // Below code handles when users "visit" a page.
-    // In each of the below cases when a user visits a link
-    // ---------------------------------------------------------------------------
-
+   
     app.get('/api/notes', (req, res) => res.json(noteDb));
 
     // API POST Requests
